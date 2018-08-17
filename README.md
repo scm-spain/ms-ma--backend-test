@@ -13,7 +13,7 @@ Users will only have:
  - Profile visibility:
    - Hidden: Cannot receive friendship requests
    - Public: Can receive friendship requests **(DEFAULT: When signup)**
- - Password 8-12 characters, ONLY alphanumeric catacters (no dots no commas no underscores)
+ - Password 8-12 characters, ONLY alphanumeric characters (no dots no commas no underscores)
 
 We need the following use cases:
  - Sign up user
